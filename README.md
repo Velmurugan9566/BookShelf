@@ -30,7 +30,8 @@ Before you begin, ensure you have the following installed on your local machine:
 2. **Navigate to the Project Directory:**
    
    ```cd OpenBook_Library```
-3.**Start the Development Server:**
+
+3. **Start the Development Server:**
    
      Using npm:
      ```npm run dev```
