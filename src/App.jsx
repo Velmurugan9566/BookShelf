@@ -10,8 +10,8 @@ function App() {
     <>
     <BrowserRouter>
     <Routes>
-      <Route path='/OpenBook_Library' element={<Booksearch/>} ></Route>
-       <Route path='/OpenBook_Library/Personal-Shelf' element={<Myshelf/>} ></Route>
+      <Route path='/' element={<Booksearch/>} ></Route>
+       <Route path='/Personal-Shelf' element={<Myshelf/>} ></Route>
     </Routes>
     </BrowserRouter>
     </>
