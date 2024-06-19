@@ -10,7 +10,7 @@ function Myshelf() {
     }
     return (
         <div className="Shelf">
-            <Link to='/' className="shelf-link">Search Book</Link>
+            <Link to='/OpenBook_Library' className="shelf-link">Search Book</Link>
             <h2>Personal BookShelf</h2>
             <div className='block' >
                 {books.length != 0 ?
