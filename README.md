@@ -28,10 +28,12 @@ Before you begin, ensure you have the following installed on your local machine:
 
    git clone https://github.com/Velmurugan9566/OpenBook_Library.git
 2. **Navigate to the Project Directory:**
-   cd your-repo-name
+   
+   ```cd OpenBook_Library```
 3.**Start the Development Server:**
-    Using npm:
-    npm run dev
+   
+     Using npm:
+     ```npm run dev```
 4. **Open the Application in Your Browser:**
 
       Copy code
