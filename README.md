@@ -1,4 +1,4 @@
-![addbook](https://github.com/Velmurugan9566/OpenBook_Library/assets/140421065/840d41e2-8db8-47d7-a09a-eb148233b585)# React + Vite
+# React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
