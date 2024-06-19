@@ -37,7 +37,7 @@ function Booksearch() {
         <>
             <header className="header">
                 <h2 className="head">Open Book Library</h2>
-                <Link to="/OpenBook_Library/Personal-Shelf" className="shelf-link">My Book Shelf</Link>
+                <Link to="/Personal-Shelf" className="shelf-link">My Book Shelf</Link>
             </header>
             <p className="title">Search Book as you want..</p>
             <input type="text" value={query} onChange={(e) => setquery(e.target.value)} className="inputbox" />
